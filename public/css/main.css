@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.markdown-body pre {
+    background-color: #333;
+}
+
+.markdown-body code {
+    font-family: Consolas, 'Courier New', Courier, monospace;
+    color: #FFF;
+}
+
+.markdown-body h3:first-of-type {
+    color: #F44336;
+}

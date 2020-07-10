@@ -1,0 +1,17 @@
+{
+  "name": "markdown-server",
+  "version": "0.0.1",
+  "description": "MD在线编辑和预览",
+  "main": "index.js",
+  "author": "Leon <leonooo@163.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "pm2 start ./server.js --name=md"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "fs-extra": "^9.0.0",
+    "github-markdown-css": "^4.0.0",
+    "markdown-it": "^10.0.0"
+  }
+}
