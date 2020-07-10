@@ -1,5 +1,7 @@
 ## BUG和修改记录
 
+[湘潭应急OA-更新记录](./XTYJOA-UPDATE)
+
 [湘潭应急OA-爬虫](./XTYJOA-SPIDER)
 
 [污染源普查分析](./BUG)
