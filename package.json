@@ -6,7 +6,7 @@
   "author": "Leon <leonooo@163.com>",
   "license": "MIT",
   "scripts": {
-    "start": "pm2 start ./server.js --name=md"
+    "start": "pm2 start ./server.js --name=markdown"
   },
   "dependencies": {
     "express": "^4.17.1",
